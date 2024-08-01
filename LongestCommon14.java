@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class LongestCommon7{
+public class LongestCommon14{
 
     public static void main(String arg[]){
             

@@ -13,9 +13,9 @@ public class Reverse9{
             rev= rev*10 +x%10;
             x= x/10;
         }
-        if(rev !=temp){
+        if(rev !=temp)
             return false;
-        }
+        
 
         return true;
     }
